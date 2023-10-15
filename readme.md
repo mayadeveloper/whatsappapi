@@ -13,5 +13,5 @@
 - Ler o QRCode na tela
 
 
-Creditos: https://github.com/pedroherpeto
+### Creditos: https://github.com/pedroherpeto
 
